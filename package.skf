@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-password-gen"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Генератор паролей с настройкой символов."
+    репозиторий = "github.com/skytech-alt/skyforge-password-gen"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
